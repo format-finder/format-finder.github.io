@@ -19,3 +19,5 @@ This is a tool for people already posting regularly who keep running out of stru
 ---
 
 *This is an independent page and is not affiliated with or endorsed by One Peak Creative; all trademarks belong to their respective owners.*
+
+_Last reviewed: 2026-09-22_
